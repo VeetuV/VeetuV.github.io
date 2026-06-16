@@ -1,6 +1,6 @@
 {
-    "name": "quizapp",
-    "short_name": "quizapp",
+    "name": "placeholder",
+    "short_name": "placeholder",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
